@@ -11,4 +11,4 @@ WHEN I read through each section of the tutorial
 THEN I find a detailed explanation of what a specific component of the regex does
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
-<script src="https://gist.github.com/KyleSunday/e7bde41e32eaf723078f6a9a3ee2c39e.js"></script>
+[<script src="https://gist.github.com/KyleSunday/e7bde41e32eaf723078f6a9a3ee2c39e.js"></script>](https://gist.github.com/KyleSunday/e7bde41e32eaf723078f6a9a3ee2c39e)
